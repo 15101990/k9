@@ -8,7 +8,7 @@ int main()
     if(button == 0)    //active low pin (the button is pressed)
     lamp=1;
 
-    if(button==1)
-    lamp=0;
+    //if(button==1)
+    //lamp=0;
     return 0;
 }
